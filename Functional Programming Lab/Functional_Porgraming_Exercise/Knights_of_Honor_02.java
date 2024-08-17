@@ -17,11 +17,11 @@ public class Knights_of_Honor_02 {
         // Consumer: аргумент -> извършва се действие без да се връща резултата
         Consumer<String> consumer = name -> System.out.println("Sir " + name);
 
-        Function<String,  String> function = name -> "Sir " + name;
+        Function<String, String> function = name -> "Sir " + name;
 
         names.stream()
                 .map(function)
-                .forEach(n-> System.out.println(n));
+                .forEach(n -> System.out.println(n));
 
     }
 }
