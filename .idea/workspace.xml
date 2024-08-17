@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Exercises Functional Programming">
-      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Custom_Min_Function_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Knights_of_Honor_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Knights_of_Honor_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Applied_Arithmetic_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ALL_CAPITALS_03.executor": "Run",
+    "Application.Applied_Arithmetic_04.executor": "Debug",
     "Application.BalancedParentheses_05.executor": "Run",
     "Application.Copy_Bytes_03.executor": "Run",
     "Application.Count_Character_Types_04.executor": "Run",
@@ -88,7 +89,20 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Custom_Min_Function_03">
+  <component name="RunManager" selected="Application.Applied_Arithmetic_04">
+    <configuration name="Applied_Arithmetic_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Applied_Arithmetic_04" />
+      <module name="Java-Advanced-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrainerDemo.Functional_Porgraming_Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Custom_Min_Function_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Custom_Min_Function_03" />
       <module name="Java-Advanced-2024" />
@@ -141,33 +155,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Word_Count_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises_Streams_Files_And_Directories.Word_Count_06" />
-      <module name="Streams_Files_And_Directories" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises_Streams_Files_And_Directories.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Applied_Arithmetic_04" />
       <item itemvalue="Application.Custom_Min_Function_03" />
       <item itemvalue="Application.Knights_of_Honor_02" />
       <item itemvalue="Application.GetFolder_Size_08" />
       <item itemvalue="Application.Merge_Two_Files_07" />
-      <item itemvalue="Application.Word_Count_06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Applied_Arithmetic_04" />
         <item itemvalue="Application.Custom_Min_Function_03" />
         <item itemvalue="Application.Knights_of_Honor_02" />
         <item itemvalue="Application.GetFolder_Size_08" />
         <item itemvalue="Application.Merge_Two_Files_07" />
-        <item itemvalue="Application.Word_Count_06" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723896983955</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Java solution for Exercises Functional Programming">
+      <option name="closed" value="true" />
+      <created>1723897575008</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723897575008</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -354,6 +363,17 @@
     <MESSAGE value="Java solution for Stream,Files and Directories Exercises" />
     <MESSAGE value="Java solution for Exercises Functional Programming" />
     <option name="LAST_COMMIT_MESSAGE" value="Java solution for Exercises Functional Programming" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Applied_Arithmetic_04.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Advanced_2024_Repo$Read_File01.ic" NAME="Read_File01 Coverage Results" MODIFIED="1723396846211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
