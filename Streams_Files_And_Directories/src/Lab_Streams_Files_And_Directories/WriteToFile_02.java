@@ -8,8 +8,7 @@ import java.util.Scanner;
 public class WriteToFile_02 {
     public static void main(String[] args) throws IOException {
 
-        String path = "C:\\Users\\VITORIYA\\Downloads" +
-                "\\04. Java-Advanced-Streams-Files-and-Directories-Resources" +
+        String path = "C:\\Users\\VITORIYA\\Downloads\\04. Java-Advanced-Streams-Files-and-Directories-Resources" +
                 "\\04. Java-Advanced-Files-and-Streams-Lab-Resources\\input.txt";
 
         FileInputStream inputStream = new FileInputStream(path);
@@ -18,7 +17,9 @@ public class WriteToFile_02 {
         Scanner scanner = new Scanner(inputStream);
 
         while (scanner.hasNext()) {
+
             String next = scanner.nextLine();
+
             next = next.replaceAll("[,.!?]", "");
             for (int i = 0; i < next.length(); i++) {
                 outputStream.write(next.charAt(i));
@@ -28,5 +29,6 @@ public class WriteToFile_02 {
                 outputStream.write(lineSeparator.charAt(i));
             }
         }
+        outputStream.close();
     }
 }

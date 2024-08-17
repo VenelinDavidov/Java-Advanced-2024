@@ -52,5 +52,6 @@ public class BalancedParentheses_05 {
             }
         }
         return openParenthesesStack.isEmpty();
+
     }
 }

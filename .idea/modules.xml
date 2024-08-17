@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Advanced-2024.iml" filepath="$PROJECT_DIR$/Java-Advanced-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams_Files_And_Directories/Streams_Files_And_Directories.iml" filepath="$PROJECT_DIR$/Streams_Files_And_Directories/Streams_Files_And_Directories.iml" />
     </modules>
   </component>
 </project>
