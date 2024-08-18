@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Exercises Functional Programming">
-      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Predicate_For_Names_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Find_The_Smallest_Element_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Predicate_For_Names_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Predicate_For_Names_06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
     "Application.Count_Character_Types_04.executor": "Run",
     "Application.Custom_Min_Function_03.executor": "Run",
     "Application.ExtractIntegers_04.executor": "Run",
+    "Application.Find_The_Smallest_Element_07.executor": "Run",
     "Application.GetFolder_Size_08.executor": "Run",
     "Application.Knights_of_Honor_02.executor": "Debug",
     "Application.Line_Numbers05.executor": "Run",
@@ -89,7 +92,7 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Reverse_And_Exclude_05">
+  <component name="RunManager" selected="Application.Find_The_Smallest_Element_07">
     <configuration name="Applied_Arithmetic_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Applied_Arithmetic_04" />
       <module name="Java-Advanced-2024" />
@@ -116,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetFolder_Size_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises_Streams_Files_And_Directories.GetFolder_Size_08" />
-      <module name="Streams_Files_And_Directories" />
+    <configuration name="Find_The_Smallest_Element_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Find_The_Smallest_Element_07" />
+      <module name="Java-Advanced-2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises_Streams_Files_And_Directories.*" />
+          <option name="PATTERN" value="TrainerDemo.Functional_Porgraming_Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +159,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Find_The_Smallest_Element_07" />
       <item itemvalue="Application.Reverse_And_Exclude_05" />
       <item itemvalue="Application.Applied_Arithmetic_04" />
       <item itemvalue="Application.Custom_Min_Function_03" />
       <item itemvalue="Application.Knights_of_Honor_02" />
-      <item itemvalue="Application.GetFolder_Size_08" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_The_Smallest_Element_07" />
         <item itemvalue="Application.Reverse_And_Exclude_05" />
         <item itemvalue="Application.Applied_Arithmetic_04" />
         <item itemvalue="Application.Custom_Min_Function_03" />
         <item itemvalue="Application.Knights_of_Honor_02" />
-        <item itemvalue="Application.GetFolder_Size_08" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723960378142</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Java solution for Exercises Functional Programming">
+      <option name="closed" value="true" />
+      <created>1723960790699</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723960790699</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

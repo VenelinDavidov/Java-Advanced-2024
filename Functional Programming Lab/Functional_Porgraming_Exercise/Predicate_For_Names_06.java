@@ -9,7 +9,7 @@ public class Predicate_For_Names_06 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int requiredLength = Integer.parseInt(scanner.nextLine());
+        int requiredLength = Integer.parseInt(scanner.nextLine());  // n
 
         List<String> names = Arrays.stream(scanner.nextLine().split("\\s+")).toList();
 
