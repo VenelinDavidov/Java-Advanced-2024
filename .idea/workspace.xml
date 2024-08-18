@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Exercises Functional Programming">
-      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/The_Party_Reservation_Filter_Module_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Custom_Comparator_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Custom_Comparator_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/The_Party_Reservation_Filter_Module_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/The_Party_Reservation_Filter_Module_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,7 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.The_Party_Reservation_Filter_Module_11">
+  <component name="RunManager" selected="Application.Custom_Comparator_08">
     <configuration name="Custom_Comparator_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Custom_Comparator_08" />
       <module name="Java-Advanced-2024" />
@@ -170,10 +171,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Custom_Comparator_08" />
         <item itemvalue="Application.The_Party_Reservation_Filter_Module_11" />
         <item itemvalue="Application.Predicate_Party_10" />
         <item itemvalue="Application.List_Of_Predicates_09" />
-        <item itemvalue="Application.Custom_Comparator_08" />
         <item itemvalue="Application.Find_The_Smallest_Element_07" />
       </list>
     </recent_temporary>
@@ -414,7 +415,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723975490975</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Java solution for Exercises Functional Programming">
+      <option name="closed" value="true" />
+      <created>1723978079033</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1723978079033</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -435,11 +444,6 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Custom_Comparator_08.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Predicate_Party_10.java</url>
           <line>22</line>
           <option name="timeStamp" value="8" />
@@ -448,6 +452,11 @@
           <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/The_Party_Reservation_Filter_Module_11.java</url>
           <line>20</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Custom_Comparator_08.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

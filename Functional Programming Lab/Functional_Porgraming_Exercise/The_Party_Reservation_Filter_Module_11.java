@@ -61,6 +61,7 @@ public class The_Party_Reservation_Filter_Module_11 {
                     isGoing = false;
                     break;
                 }
+
             }
             if (isGoing) {
                 System.out.print(guest + " ");
