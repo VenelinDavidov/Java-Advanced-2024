@@ -30,6 +30,7 @@ public class Custom_Comparator_08 {
                 // първото-четно, второто-четно
                 return -1;
             }
+
             // Default Comparator Implementation за числа: Подрежда числата в нарастващ ред
             // първото > второто = 1
             // първото < второто = -1
