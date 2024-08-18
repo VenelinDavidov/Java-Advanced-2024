@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Exercises Functional Programming">
-      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/List_Of_Predicates_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Predicate_Party_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Application.List_Of_Predicates_09.executor": "Debug",
     "Application.Merge_Two_Files_07.executor": "Run",
     "Application.MouseInTheKitchen.executor": "Debug",
+    "Application.Predicate_Party_10.executor": "Debug",
     "Application.Read_File01.executor": "Run",
     "Application.Reverse_And_Exclude_05.executor": "Run",
     "Application.SerializeCustomObject_09.executor": "Run",
@@ -93,20 +94,7 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.List_Of_Predicates_09">
-    <configuration name="Applied_Arithmetic_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Applied_Arithmetic_04" />
-      <module name="Java-Advanced-2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TrainerDemo.Functional_Porgraming_Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Predicate_Party_10">
     <configuration name="Custom_Comparator_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Custom_Comparator_08" />
       <module name="Java-Advanced-2024" />
@@ -146,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Predicate_Party_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Predicate_Party_10" />
+      <module name="Java-Advanced-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrainerDemo.Functional_Porgraming_Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reverse_And_Exclude_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Reverse_And_Exclude_05" />
       <module name="Java-Advanced-2024" />
@@ -163,16 +164,16 @@
       <item itemvalue="Application.Custom_Comparator_08" />
       <item itemvalue="Application.Find_The_Smallest_Element_07" />
       <item itemvalue="Application.List_Of_Predicates_09" />
+      <item itemvalue="Application.Predicate_Party_10" />
       <item itemvalue="Application.Reverse_And_Exclude_05" />
-      <item itemvalue="Application.Applied_Arithmetic_04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Predicate_Party_10" />
         <item itemvalue="Application.List_Of_Predicates_09" />
         <item itemvalue="Application.Custom_Comparator_08" />
         <item itemvalue="Application.Find_The_Smallest_Element_07" />
         <item itemvalue="Application.Reverse_And_Exclude_05" />
-        <item itemvalue="Application.Applied_Arithmetic_04" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723963498458</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Java solution for Exercises Functional Programming">
+      <option name="closed" value="true" />
+      <created>1723966642042</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723966642042</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -422,9 +431,9 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/List_Of_Predicates_09.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Predicate_Party_10.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
