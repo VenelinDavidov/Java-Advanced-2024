@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Exercises Functional Programming">
-      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Applied_Arithmetic_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Reverse_And_Exclude_05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;VenelinDavidov&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VenelinDavidov/Java-Advanced-2024",
-    "accountId": "f81c062e-b28a-4e6b-a985-52805aa4ceb8"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VenelinDavidov/Java-Advanced-2024&quot;,
+    &quot;accountId&quot;: &quot;f81c062e-b28a-4e6b-a985-52805aa4ceb8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -62,6 +62,7 @@
     "Application.Merge_Two_Files_07.executor": "Run",
     "Application.MouseInTheKitchen.executor": "Debug",
     "Application.Read_File01.executor": "Run",
+    "Application.Reverse_And_Exclude_05.executor": "Run",
     "Application.SerializeCustomObject_09.executor": "Run",
     "Application.SortLines_06.executor": "Run",
     "Application.Sum_Bytes02.executor": "Run",
@@ -89,7 +90,7 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Applied_Arithmetic_04">
+  <component name="RunManager" selected="Application.Reverse_And_Exclude_05">
     <configuration name="Applied_Arithmetic_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Applied_Arithmetic_04" />
       <module name="Java-Advanced-2024" />
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Two_Files_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises_Streams_Files_And_Directories.Merge_Two_Files_07" />
-      <module name="Streams_Files_And_Directories" />
+    <configuration name="Reverse_And_Exclude_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Reverse_And_Exclude_05" />
+      <module name="Java-Advanced-2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises_Streams_Files_And_Directories.*" />
+          <option name="PATTERN" value="TrainerDemo.Functional_Porgraming_Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +157,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Reverse_And_Exclude_05" />
       <item itemvalue="Application.Applied_Arithmetic_04" />
       <item itemvalue="Application.Custom_Min_Function_03" />
       <item itemvalue="Application.Knights_of_Honor_02" />
       <item itemvalue="Application.GetFolder_Size_08" />
-      <item itemvalue="Application.Merge_Two_Files_07" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_And_Exclude_05" />
         <item itemvalue="Application.Applied_Arithmetic_04" />
         <item itemvalue="Application.Custom_Min_Function_03" />
         <item itemvalue="Application.Knights_of_Honor_02" />
         <item itemvalue="Application.GetFolder_Size_08" />
-        <item itemvalue="Application.Merge_Two_Files_07" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723897575008</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Java solution for Exercises Functional Programming">
+      <option name="closed" value="true" />
+      <created>1723899054211</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723899054211</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
