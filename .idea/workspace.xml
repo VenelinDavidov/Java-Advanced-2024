@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Exercises Functional Programming">
-      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Custom_Comparator_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/List_Of_Predicates_09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Application.Knights_of_Honor_02.executor": "Debug",
     "Application.Line_Numbers05.executor": "Run",
     "Application.ListFiles_07.executor": "Run",
+    "Application.List_Of_Predicates_09.executor": "Debug",
     "Application.Merge_Two_Files_07.executor": "Run",
     "Application.MouseInTheKitchen.executor": "Debug",
     "Application.Read_File01.executor": "Run",
@@ -92,7 +93,7 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Custom_Comparator_08">
+  <component name="RunManager" selected="Application.List_Of_Predicates_09">
     <configuration name="Applied_Arithmetic_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Applied_Arithmetic_04" />
       <module name="Java-Advanced-2024" />
@@ -119,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Custom_Min_Function_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Custom_Min_Function_03" />
+    <configuration name="Find_The_Smallest_Element_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Find_The_Smallest_Element_07" />
       <module name="Java-Advanced-2024" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_The_Smallest_Element_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.Find_The_Smallest_Element_07" />
+    <configuration name="List_Of_Predicates_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Functional_Porgraming_Exercise.List_Of_Predicates_09" />
       <module name="Java-Advanced-2024" />
       <extension name="coverage">
         <pattern>
@@ -161,17 +162,17 @@
     <list>
       <item itemvalue="Application.Custom_Comparator_08" />
       <item itemvalue="Application.Find_The_Smallest_Element_07" />
+      <item itemvalue="Application.List_Of_Predicates_09" />
       <item itemvalue="Application.Reverse_And_Exclude_05" />
       <item itemvalue="Application.Applied_Arithmetic_04" />
-      <item itemvalue="Application.Custom_Min_Function_03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.List_Of_Predicates_09" />
         <item itemvalue="Application.Custom_Comparator_08" />
         <item itemvalue="Application.Find_The_Smallest_Element_07" />
         <item itemvalue="Application.Reverse_And_Exclude_05" />
         <item itemvalue="Application.Applied_Arithmetic_04" />
-        <item itemvalue="Application.Custom_Min_Function_03" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723961844641</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Java solution for Exercises Functional Programming">
+      <option name="closed" value="true" />
+      <created>1723963498458</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1723963498458</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -411,6 +420,11 @@
           <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/Custom_Comparator_08.java</url>
           <line>22</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Functional Programming Lab/Functional_Porgraming_Exercise/List_Of_Predicates_09.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
