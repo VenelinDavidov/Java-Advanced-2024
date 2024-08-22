@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Stream,Files and Directories Exercises">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/Box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/Box/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises Generics/Exercises Generics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Generics/Exercise Generics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises Generics/src/box/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises Generics/src/box/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +62,7 @@
     "Application.GetFolder_Size_08.executor": "Run",
     "Application.Line_Numbers05.executor": "Run",
     "Application.ListFiles_07.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Merge_Two_Files_07.executor": "Run",
     "Application.MouseInTheKitchen.executor": "Debug",
     "Application.Read_File01.executor": "Run",
@@ -68,6 +76,7 @@
     "Application.f.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/IntelliJ IDEA Community Edition 2022.3.1/Java-Advanced-2024_Repo/Streams_Files_And_Directories/src/Exercises_Streams_Files_And_Directories",
@@ -80,13 +89,14 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Exercises Generics\src\box" />
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories" />
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src" />
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Exercises_Streams_Files_And_Directories" />
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Party">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GetFolder_Size_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises_Streams_Files_And_Directories.GetFolder_Size_08" />
       <module name="Streams_Files_And_Directories" />
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Line_Numbers05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises_Streams_Files_And_Directories.Line_Numbers05" />
-      <module name="Streams_Files_And_Directories" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Box.Main" />
+      <module name="Exercise Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises_Streams_Files_And_Directories.*" />
+          <option name="PATTERN" value="Box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +163,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.GetFolder_Size_08" />
-      <item itemvalue="Application.Line_Numbers05" />
       <item itemvalue="Application.Merge_Two_Files_07" />
       <item itemvalue="Application.Word_Count_06" />
       <item itemvalue="Application.Party" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Party" />
         <item itemvalue="Application.GetFolder_Size_08" />
         <item itemvalue="Application.Merge_Two_Files_07" />
         <item itemvalue="Application.Word_Count_06" />
-        <item itemvalue="Application.Line_Numbers05" />
       </list>
     </recent_temporary>
   </component>
