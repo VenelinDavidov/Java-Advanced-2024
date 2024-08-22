@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for Stream,Files and Directories Exercises">
-      <change beforePath="$PROJECT_DIR$/Exercise Generics/Exercise Generics.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Generics/src/Box/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Generics/src/Box/Main.java" beforeDir="false" />
+    <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution Generics">
+      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/List/Custom_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/List/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/List/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,37 +50,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ALL_CAPITALS_03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BalancedParentheses_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Copy_Bytes_03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Character_Types_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExtractIntegers_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GetFolder_Size_08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Line_Numbers05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListFiles_07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge_Two_Files_07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MouseInTheKitchen.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Read_File01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerializeCustomObject_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortLines_06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Bytes02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Lines01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Word_Count_06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteEveryThirdLine_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteToFile_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.f.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/IntelliJ IDEA Community Edition 2022.3.1/Java-Advanced-2024_Repo/Streams_Files_And_Directories/src/Exercises_Streams_Files_And_Directories&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ALL_CAPITALS_03.executor": "Run",
+    "Application.BalancedParentheses_05.executor": "Run",
+    "Application.Copy_Bytes_03.executor": "Run",
+    "Application.Count_Character_Types_04.executor": "Run",
+    "Application.ExtractIntegers_04.executor": "Run",
+    "Application.GetFolder_Size_08.executor": "Run",
+    "Application.Line_Numbers05.executor": "Run",
+    "Application.List.Main.executor": "Run",
+    "Application.ListFiles_07.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Merge_Two_Files_07.executor": "Run",
+    "Application.MouseInTheKitchen.executor": "Debug",
+    "Application.Read_File01.executor": "Run",
+    "Application.SerializeCustomObject_09.executor": "Run",
+    "Application.SortLines_06.executor": "Run",
+    "Application.Sum_Bytes02.executor": "Run",
+    "Application.Sum_Lines01.executor": "Run",
+    "Application.Word_Count_06.executor": "Run",
+    "Application.WriteEveryThirdLine_05.executor": "Run",
+    "Application.WriteToFile_02.executor": "Run",
+    "Application.f.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/IntelliJ IDEA Community Edition 2022.3.1/Java-Advanced-2024_Repo/Streams_Files_And_Directories/src/Exercises_Streams_Files_And_Directories",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Exercises_Streams_Files_And_Directories" />
@@ -91,13 +95,26 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.List.Main">
     <configuration name="GetFolder_Size_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises_Streams_Files_And_Directories.GetFolder_Size_08" />
       <module name="Streams_Files_And_Directories" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercises_Streams_Files_And_Directories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="List.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.Main" />
+      <module name="Exercise Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,33 +161,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Word_Count_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises_Streams_Files_And_Directories.Word_Count_06" />
-      <module name="Streams_Files_And_Directories" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises_Streams_Files_And_Directories.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.List.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.GetFolder_Size_08" />
       <item itemvalue="Application.Merge_Two_Files_07" />
-      <item itemvalue="Application.Word_Count_06" />
       <item itemvalue="Application.Party" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.List.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Party" />
         <item itemvalue="Application.GetFolder_Size_08" />
         <item itemvalue="Application.Merge_Two_Files_07" />
-        <item itemvalue="Application.Word_Count_06" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +342,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723875295986</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Java solution Generics">
+      <option name="closed" value="true" />
+      <created>1724354894702</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724354894702</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Java solution Generics">
+      <option name="closed" value="true" />
+      <created>1724355149322</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724355149322</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -347,7 +367,8 @@
     <MESSAGE value="java solution two" />
     <MESSAGE value="java solution for Stream,Files and Directories" />
     <MESSAGE value="Java solution for Stream,Files and Directories Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java solution for Stream,Files and Directories Exercises" />
+    <MESSAGE value="Java solution Generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java solution Generics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
