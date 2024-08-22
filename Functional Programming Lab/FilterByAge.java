@@ -19,7 +19,9 @@ public class FilterByAge {
         }
     }
 
+
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         int n = Integer.parseInt(scanner.nextLine());
@@ -38,6 +40,7 @@ public class FilterByAge {
         String ageCriteria = scanner.nextLine();
         int age = Integer.parseInt(scanner.nextLine());
         String format = scanner.nextLine();
+
 
 
         Predicate<Person> personPredicate = getPersonPredicate(ageCriteria, age);
