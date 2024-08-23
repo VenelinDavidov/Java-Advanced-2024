@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution Generics">
-      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/Tuple/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/Tuple/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/Threeuple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Generics/src/Threeuple/Threeuple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Application.SortLines_06.executor": "Run",
     "Application.Sum_Bytes02.executor": "Run",
     "Application.Sum_Lines01.executor": "Run",
+    "Application.Threeuple.Main.executor": "Run",
     "Application.Tuple.Main.executor": "Run",
     "Application.Word_Count_06.executor": "Run",
     "Application.WriteEveryThirdLine_05.executor": "Run",
@@ -95,7 +96,7 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tuple.Main">
+  <component name="RunManager" selected="Application.Threeuple.Main">
     <configuration name="List.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List.Main" />
       <module name="Exercise Generics" />
@@ -122,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Party" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrainerDemo.Party" />
-      <module name="Java-Advanced-2024" />
+    <configuration name="SmallestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallestString.SmallestString" />
+      <module name="Exercise Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TrainerDemo.*" />
+          <option name="PATTERN" value="SmallestString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmallestString.SmallestString" />
+    <configuration name="Threeuple.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threeuple.Main" />
       <module name="Exercise Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SmallestString.*" />
+          <option name="PATTERN" value="Threeuple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,17 +165,17 @@
     <list>
       <item itemvalue="Application.List.Main" />
       <item itemvalue="Application.SmallestString" />
+      <item itemvalue="Application.Threeuple.Main" />
       <item itemvalue="Application.Tuple.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Party" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Threeuple.Main" />
         <item itemvalue="Application.Tuple.Main" />
         <item itemvalue="Application.SmallestString" />
         <item itemvalue="Application.List.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Party" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724360798978</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Java solution Generics">
+      <option name="closed" value="true" />
+      <created>1724393476596</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1724393476596</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
