@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Iterator and Comparators lecture and consider solution." />
+    <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution for iterators and comparators">
+      <change afterPath="$PROJECT_DIR$/Iterators and Comparators/src/Lab/BookComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Comparators/src/Lab/BookComparatorByYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Comparators/src/Lab/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Comparators/src/Lab/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterators and Comparators/src/Iterators_Comparators_Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iterators and Comparators/src/Iterators_Comparators_Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterators and Comparators/src/Lab/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iterators and Comparators/src/Lab/Book.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -449,7 +458,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723982909882</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Java solution for iterators and comparators">
+      <option name="closed" value="true" />
+      <created>1724505445546</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1724505445546</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Java solution for iterators and comparators">
+      <option name="closed" value="true" />
+      <created>1724505565717</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1724505565717</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -461,7 +486,8 @@
     <MESSAGE value="Java solution for Exercises Functional Programming" />
     <MESSAGE value="н" />
     <MESSAGE value="Iterator and Comparators lecture and consider solution." />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterator and Comparators lecture and consider solution." />
+    <MESSAGE value="Java solution for iterators and comparators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java solution for iterators and comparators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
