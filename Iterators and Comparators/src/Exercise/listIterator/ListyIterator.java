@@ -45,6 +45,7 @@ public class ListyIterator implements Iterable<String> {
     public Iterator<String> iterator() {
 
         return new Iterator<String>() {
+
             private int internalIndex;
             @Override
             public boolean hasNext() {
