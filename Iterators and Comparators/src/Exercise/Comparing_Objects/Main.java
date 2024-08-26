@@ -25,23 +25,25 @@ public class Main {
         }
 
         int mainPersonIndex = Integer.parseInt(scanner.nextLine());
+
         int samePeople = 0;
         int differentPeople = 0;
-
         Person mainPerson = people.get(mainPersonIndex - 1);
+        people.remove(mainPersonIndex - 1);
 
         for (Person person : people) {
-            if (person.equals(mainPerson)) {
+            if (person.compareTo(mainPerson) == 0) {
                 samePeople++;
             } else {
                 differentPeople++;
             }
         }
 
-        if (samePeople == 1) {
+        int totalPeople = people.size() + 1;
+        if (samePeople == 0) {
             System.out.println("No matches");
         } else {
-            System.out.printf("%d %d %d", samePeople, differentPeople, people.size());
+            System.out.printf("%d %d %d", ++samePeople, differentPeople, totalPeople);
         }
 
     }

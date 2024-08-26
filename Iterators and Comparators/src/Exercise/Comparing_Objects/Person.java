@@ -38,15 +38,15 @@ public class Person implements Comparable<Person> {
         this.town = town;
     }
 
-    @Override
-    public boolean equals(Object otherObject) {
-        if (this == otherObject) return true;
-        if (otherObject == null || getClass() != otherObject.getClass()) return false;
-        Person person = (Person) otherObject;
-        return  age == person.age
-                && Objects.equals(name, person.name)
-                && Objects.equals(town, person.town);
-    }
+//    @Override
+//    public boolean equals(Object otherObject) {
+//        if (this == otherObject) return true;
+//        if (otherObject == null || getClass() != otherObject.getClass()) return false;
+//        Person person = (Person) otherObject;
+//        return  age == person.age
+//                && Objects.equals(name, person.name)
+//                && Objects.equals(town, person.town);
+//    }
 
     @Override
     public int compareTo(Person otherPerson) {
@@ -55,9 +55,8 @@ public class Person implements Comparable<Person> {
             if (this.getAge() == otherPerson.getAge()) {
                 //еднаква възраст
                 return this.getTown().compareTo(otherPerson.getTown());
-            } else {
-                return Integer.compare(this.getAge(), otherPerson.getAge());
             }
+                return Integer.compare(this.getAge(), otherPerson.getAge());
         }
         return this.getName().compareTo(otherPerson.getName());
     }
