@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution Algorithm WorkShop">
-      <change afterPath="$PROJECT_DIR$/Algorithms_Workshop/src/Fibonacci_Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_Workshop/src/ArraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ALL_CAPITALS_03.executor": "Run",
+    "Application.ArraySum.executor": "Run",
     "Application.BalancedParentheses_05.executor": "Run",
     "Application.BruteForce.executor": "Run",
     "Application.Copy_Bytes_03.executor": "Run",
@@ -100,7 +101,14 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci_Two">
+  <component name="RunManager" selected="Application.ArraySum">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySum" />
+      <module name="Algorithms_Workshop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce" />
       <module name="Algorithms_Workshop" />
@@ -129,13 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfCoins" />
-      <module name="Algorithms_Workshop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Streams_Files_And_Directories" />
       <method v="2">
@@ -150,19 +151,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ArraySum" />
       <item itemvalue="Application.BruteForce" />
       <item itemvalue="Application.CountingSort" />
       <item itemvalue="Application.Fibonacci_One" />
       <item itemvalue="Application.Fibonacci_Two" />
-      <item itemvalue="Application.SumOfCoins" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.Fibonacci_Two" />
         <item itemvalue="Application.Fibonacci_One" />
         <item itemvalue="Application.CountingSort" />
         <item itemvalue="Application.BruteForce" />
-        <item itemvalue="Application.SumOfCoins" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724960282820</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Java solution Algorithm WorkShop">
+      <option name="closed" value="true" />
+      <created>1724961727502</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1724961727502</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
