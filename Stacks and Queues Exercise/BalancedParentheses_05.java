@@ -54,8 +54,6 @@ public class BalancedParentheses_05 {
         return openParenthesesStack.isEmpty();
 
 
-        for (int i = 0; i < ; i++) {
-            
-        }
+
     }
 }
