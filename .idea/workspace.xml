@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca069cce-e67f-442c-a78b-045a3f526a14" name="Changes" comment="Java solution Algorithm WorkShop">
-      <change afterPath="$PROJECT_DIR$/Algorithms_Workshop/src/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_Workshop/src/PowerOfNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,47 +47,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ALL_CAPITALS_03.executor": "Run",
-    "Application.ArraySum.executor": "Run",
-    "Application.BalancedParentheses_05.executor": "Run",
-    "Application.BruteForce.executor": "Run",
-    "Application.Copy_Bytes_03.executor": "Run",
-    "Application.Count_Character_Types_04.executor": "Run",
-    "Application.CountingSort.executor": "Debug",
-    "Application.ExtractIntegers_04.executor": "Run",
-    "Application.Fibonacci_One.executor": "Run",
-    "Application.Fibonacci_Two.executor": "Debug",
-    "Application.GetFolder_Size_08.executor": "Run",
-    "Application.Line_Numbers05.executor": "Run",
-    "Application.List.Main.executor": "Run",
-    "Application.ListFiles_07.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Merge_Two_Files_07.executor": "Run",
-    "Application.MouseInTheKitchen.executor": "Debug",
-    "Application.Read_File01.executor": "Run",
-    "Application.SerializeCustomObject_09.executor": "Run",
-    "Application.SmallestString.executor": "Run",
-    "Application.SortLines_06.executor": "Run",
-    "Application.SumOfCoins.executor": "Debug",
-    "Application.Sum_Bytes02.executor": "Run",
-    "Application.Sum_Lines01.executor": "Run",
-    "Application.Threeuple.Main.executor": "Run",
-    "Application.Tuple.Main.executor": "Run",
-    "Application.Word_Count_06.executor": "Run",
-    "Application.WriteEveryThirdLine_05.executor": "Run",
-    "Application.WriteToFile_02.executor": "Run",
-    "Application.f.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/IntelliJ IDEA Community Edition 2022.3.1/Java-Advanced-2024_Repo/Streams_Files_And_Directories/src/Exercises_Streams_Files_And_Directories",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ALL_CAPITALS_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BalancedParentheses_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Copy_Bytes_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Character_Types_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ExtractIntegers_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci_One.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci_Two.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GetFolder_Size_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Line_Numbers05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListFiles_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_Two_Files_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MouseInTheKitchen.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Read_File01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializeCustomObject_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortLines_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfCoins.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sum_Bytes02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_Lines01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Threeuple.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tuple.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Word_Count_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteEveryThirdLine_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteToFile_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.f.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/IntelliJ IDEA Community Edition 2022.3.1/Java-Advanced-2024_Repo/Streams_Files_And_Directories/src/Exercises_Streams_Files_And_Directories&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Exercises_Streams_Files_And_Directories" />
@@ -101,16 +101,9 @@
       <recent name="E:\IntelliJ IDEA Community Edition 2022.3.1\Java-Advanced-2024_Repo\Streams_Files_And_Directories\src\Lab_Streams_Files_And_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraySum">
+  <component name="RunManager" selected="Application.PowerOfNumber">
     <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraySum" />
-      <module name="Algorithms_Workshop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce" />
       <module name="Algorithms_Workshop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,33 +130,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Streams_Files_And_Directories" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Streams_Files_And_Directories" />
-      <option name="filePath" />
+    <configuration name="PowerOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerOfNumber" />
+      <module name="Algorithms_Workshop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PowerOfNumber" />
       <item itemvalue="Application.ArraySum" />
-      <item itemvalue="Application.BruteForce" />
       <item itemvalue="Application.CountingSort" />
       <item itemvalue="Application.Fibonacci_One" />
       <item itemvalue="Application.Fibonacci_Two" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerOfNumber" />
         <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.Fibonacci_Two" />
         <item itemvalue="Application.Fibonacci_One" />
         <item itemvalue="Application.CountingSort" />
-        <item itemvalue="Application.BruteForce" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724961727502</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Java solution Algorithm WorkShop">
+      <option name="closed" value="true" />
+      <created>1724962355360</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1724962355360</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
