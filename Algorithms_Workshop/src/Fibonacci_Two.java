@@ -23,6 +23,7 @@ public class Fibonacci_Two {
     private static long fibonacci(int n) {
 
         counter++;
+
         if (n <= 2) {
             return 1;
         }
